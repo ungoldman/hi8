@@ -1,0 +1,43 @@
+{
+  "name": "hi8",
+  "description": "See Earth from Himawari-8 on your desktop every 10 minutes.",
+  "version": "0.1.0",
+  "author": "Nate Goldman <ungoldman@gmail.com>",
+  "bin": {
+    "hi8": "./bin.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ungoldman/hi8/issues"
+  },
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "electron": "^1.4.2",
+    "himawari-bg": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^8.3.0"
+  },
+  "homepage": "https://github.com/ungoldman/hi8",
+  "keywords": [
+    "app",
+    "application",
+    "background",
+    "desktop",
+    "earth",
+    "himawari",
+    "himawari-8",
+    "image",
+    "satellite",
+    "wallpaper"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ungoldman/hi8.git"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "standard"
+  }
+}
