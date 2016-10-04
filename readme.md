@@ -2,7 +2,7 @@
   <br>
   <img src="assets/Icon-Template@2x.png" alt="hi8" height="34" width="34">
   <br>
-  hi8
+  <a href="https://ungoldman.github.io/hi8/">hi8</a>
   <br>
   <br>
 </h1>
