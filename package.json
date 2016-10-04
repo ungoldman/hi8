@@ -1,7 +1,7 @@
 {
   "name": "hi8",
   "description": "See Earth from Himawari-8 on your desktop every 10 minutes.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Nate Goldman <ungoldman@gmail.com>",
   "bin": {
     "hi8": "./bin.js"
