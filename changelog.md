@@ -5,7 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [v0.1.2](https://github.com/ungoldman/hi8/releases/v0.1.2)
 
-[view diff](https://github.com/ungoldman/hi8/compare/0.1.1...v0.1.2)
+[view diff](https://github.com/ungoldman/hi8/compare/v0.1.1...v0.1.2)
 
 ### Fixed
 
@@ -27,7 +27,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [v0.1.1](https://github.com/ungoldman/hi8/releases/v0.1.1)
 
-[view diff](https://github.com/ungoldman/hi8/compare/0.1.0...v0.1.1)
+[view diff](https://github.com/ungoldman/hi8/compare/v0.1.0...v0.1.1)
 
 ### Changed
 
