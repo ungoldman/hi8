@@ -65,7 +65,7 @@ function ready () {
 
   tray.setToolTip('hi8')
   tray.setContextMenu(contextMenu)
-  // setBackground()
+  setBackground()
   resetTimer(minute * 10)
 }
 
