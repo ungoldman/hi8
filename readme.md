@@ -19,7 +19,7 @@
 
 **"Himawari" (ひまわり) is Japanese for "sunflower".** :sunflower:
 
-[Himawari 8](http://himawari8.nict.go.jp/) is a [geostationary](https://en.wikipedia.org/wiki/Geostationary_orbit) weather satellite deployed by the [Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html). It takes photographs of Earth every 10 minutes.
+**[Himawari 8](http://himawari8.nict.go.jp/)** is a [geostationary](https://en.wikipedia.org/wiki/Geostationary_orbit) weather satellite deployed by the [Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html). It takes photographs of Earth every 10 minutes.
 
 **hi8** is a macOS menubar app that automatically sets the latest image from the Himawari 8 geostationary satellite as your desktop background every 10 minutes.
 
