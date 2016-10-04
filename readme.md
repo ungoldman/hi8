@@ -10,9 +10,22 @@
 <h4 align="center">See Earth from Himawari-8 on your desktop every 10 minutes.</h4>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/hi8"><img src="https://img.shields.io/npm/v/hi8.svg?style=flat-square" alt="Version"></a>
-  <a href="https://travis-ci.org/ungoldman/hi8"><img src="https://img.shields.io/travis/ungoldman/hi8.svg?style=flat-square" alt="Build Status"></a>
-  <a href="http://npm.im/standard"><img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square" alt="Code Style"></a>
+  <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
+    <img alt="Stability"
+      src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square">
+  </a>
+  <a href="https://www.npmjs.com/package/hi8">
+    <img alt="Version"
+      src="https://img.shields.io/npm/v/hi8.svg?style=flat-square">
+  </a>
+  <a href="https://travis-ci.org/ungoldman/hi8">
+    <img alt="Build Status"
+      src="https://img.shields.io/travis/ungoldman/hi8.svg?style=flat-square">
+  </a>
+  <a href="http://npm.im/standard">
+    <img alt="Code Style"
+      src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square">
+  </a>
 </p>
 
 ## About
