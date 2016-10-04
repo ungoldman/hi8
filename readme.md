@@ -78,16 +78,15 @@ Here are some useful links if you're interested in learning more about the Himaw
 
 ### Related Projects
 
-- by [celoyd](https://github.com/celoyd):
-  - [Glittering Blue](http://glittering.blue)
-  - [celoyd/hi8](https://github.com/celoyd/hi8)
-  - [Himawari 8 animation tutorial](https://gist.github.com/celoyd/b92d0de6fae1f18791ef)
-  - [deband python script](https://gist.github.com/celoyd/a4dd9202fe5c7978b114)
-  - [makeaday bash script](https://gist.github.com/celoyd/c2293929ab3fe97ea597)
-- [himawari.js](https://github.com/jakiestfu/himawari.js) by [jakiestfu](https://github.com/jakiestfu)
-- [himawari-bg](https://github.com/ungoldman/himawari-bg) by [ungoldman](https://github.com/ungoldman)
-- [himawari-urls](https://github.com/ungoldman/himawari-urls) by [ungoldman](https://github.com/ungoldman)
-- [himawari-history](https://github.com/ungoldman/himawari-history) [ungoldman](https://github.com/ungoldman)
+- [Glittering Blue](http://glittering.blue)
+- [celoyd/hi8](https://github.com/celoyd/hi8)
+- [Himawari 8 animation tutorial](https://gist.github.com/celoyd/b92d0de6fae1f18791ef)
+- [deband python script](https://gist.github.com/celoyd/a4dd9202fe5c7978b114)
+- [makeaday bash script](https://gist.github.com/celoyd/c2293929ab3fe97ea597)
+- [himawari.js](https://github.com/jakiestfu/himawari.js)
+- [himawari-bg](https://github.com/ungoldman/himawari-bg)
+- [himawari-urls](https://github.com/ungoldman/himawari-urls)
+- [himawari-history](https://github.com/ungoldman/himawari-history)
 
 ## License
 
