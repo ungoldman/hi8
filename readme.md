@@ -1,17 +1,19 @@
-# hi8
+<h1 align="center">
+  <br>
+  <img src="assets/Icon-Template@2x.png" alt="hi8" height="34" width="34">
+  <br>
+  hi8
+  <br>
+  <br>
+</h1>
 
-See Earth from Himawari-8 on your desktop every 10 minutes.
+<h4 align="center">See Earth from Himawari-8 on your desktop every 10 minutes.</h4>
 
-[![npm][npm-image]][npm-url]
-[![travis][travis-image]][travis-url]
-[![standard][standard-image]][standard-url]
-
-[npm-image]: https://img.shields.io/npm/v/hi8.svg?style=flat-square
-[npm-url]: https://www.npmjs.com/package/hi8
-[travis-image]: https://img.shields.io/travis/ungoldman/hi8.svg?style=flat-square
-[travis-url]: https://travis-ci.org/ungoldman/hi8
-[standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
-[standard-url]: http://npm.im/standard
+<p align="center">
+  <a href="https://www.npmjs.com/package/hi8"><img src="https://img.shields.io/npm/v/hi8.svg?style=flat-square" alt="Version"></a>
+  <a href="https://travis-ci.org/ungoldman/hi8"><img src="https://img.shields.io/travis/ungoldman/hi8.svg?style=flat-square" alt="Build Status"></a>
+  <a href="http://npm.im/standard"><img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square" alt="Code Style"></a>
+</p>
 
 ## About
 
