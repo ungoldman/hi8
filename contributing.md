@@ -8,7 +8,7 @@ This project is intended to be a safe, welcoming space for collaboration. All co
 
 **Before spending lots of time on something, ask for feedback on your idea first!**
 
-Please search [issues](../../issues/) and [pull requests](../../pulls/) before adding something new! This helps avoid duplicating efforts and conversations.
+Please search [issues](https://github.com/ungoldman/hi8/issues) and [pull requests](https://github.com/ungoldman/hi8/pulls) before adding something new! This helps avoid duplicating efforts and conversations.
 
 This project welcomes any kind of contribution! Here are a few suggestions:
 
