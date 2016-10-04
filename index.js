@@ -2,10 +2,8 @@ const { app, Menu, Tray } = require('electron')
 const path = require('path')
 const bg = require('himawari-bg')
 const pkg = require('./package.json')
-
 const second = 1000
 const minute = second * 60
-
 let tray = null
 let timer = null
 let shouldQuit = false
@@ -21,9 +19,7 @@ function ready () {
   if (app.dock) app.dock.hide()
 
   const iconPath = path.join(__dirname, 'assets', 'Icon-Template.png')
-
   tray = new Tray(iconPath)
-
   const contextMenu = Menu.buildFromTemplate([
     {
       label: `hi8 v${pkg.version}`,
@@ -85,6 +81,5 @@ function resetTimer (ms) {
 
 function setBackground () {
   let outfile = path.join(app.getPath('pictures'), 'Himawari-8', `${Date.now()}.jpg`)
-
   bg({ outfile })
 }
