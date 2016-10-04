@@ -35,7 +35,7 @@ For now, you can install `hi8` via [`npm`](npmjs.com).
 npm install -g hi8
 ```
 
-In *the future*, `hi8` will be packaged as an app and downloadable via the [releases](../../releases) page.
+In *the future*, `hi8` will be packaged as an app and downloadable via the [releases](https://github.com/ungoldman/hi8/releases) page.
 
 **Warning: requires :zap: magick :zap:**
 
