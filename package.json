@@ -15,6 +15,10 @@
     "himawari-bg": "^1.0.0"
   },
   "devDependencies": {
+    "gh-pages": "^0.11.0",
+    "live-server": "^1.1.0",
+    "npm-run-all": "^3.1.0",
+    "sitedown": "^3.0.1",
     "standard": "^8.3.0"
   },
   "homepage": "https://github.com/ungoldman/hi8",
@@ -37,6 +41,14 @@
     "url": "https://github.com/ungoldman/hi8.git"
   },
   "scripts": {
+    "gh-pages": "npm run site && gh-pages -d site",
+    "preview": "npm-run-all site --parallel serve:*",
+    "serve:site": "live-server site",
+    "serve:watch": "npm run site:html -- -w",
+    "site": "run-s site:*",
+    "site:clean": "rm -rf site",
+    "site:html": "sitedown -b site -l assets/layout.html",
+    "site:img": "cp -R assets/ site/assets/",
     "start": "electron .",
     "test": "standard"
   }
