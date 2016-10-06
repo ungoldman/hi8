@@ -36,7 +36,7 @@
 
 **hi8** is a macOS menubar app that sets the latest image from Himawari-8 as your desktop background every 10 minutes.
 
-![screenshot](assets/screenshot.jpg)
+![desktop screenshot](assets/screenshots/desktop.jpg)
 
 This project is alpha quality, please [report any bugs](https://github.com/ungoldman/hi8/issues)! <small>and maybe fix them! :grin:</small>
 
@@ -52,21 +52,25 @@ npm install -g hi8
 
 ### Requirements
 
-**Warning: requires :zap: magick :zap:**
+- [**:zap: GraphicsMagick :zap:**](http://www.graphicsmagick.org)
 
-You'll need both [ImageMagick](http://www.imagemagick.org) and [GraphicsMagick](http://www.graphicsmagick.org) before **hi8** will work on your system.
+GraphicsMagick is an image processing library that helps stitch together the satellite images to produce a full picture of Earth.
 
-The high resolution satellite images from Himawari-8 come in fragments. At the resolution **hi8** uses, there are sixteen images that need to be stitched together to create a full picture of Earth. Here's an example fragment: http://himawari8-dl.nict.go.jp/himawari8/img/D531106/4d/550/2016/10/05/193000_2_0.png.
+The high resolution satellite images from Himawari-8 come in fragments like [this one](http://himawari8-dl.nict.go.jp/himawari8/img/D531106/4d/550/2016/10/05/193000_2_0.png). At the resolution **hi8** uses, there are sixteen images that need to be stitched together to create a full picture of Earth.
 
-If you have [homebrew](http://brew.sh/), you can just `brew install imagemagick graphicsmagick` in your terminal to get them both installed .
+If you have [homebrew](http://brew.sh/), you can just `brew install graphicsmagick`.
 
-If you know of a better (dependency-free) way to process the images (or package `imagemagick` and `graphicsmagick` with the application), please [let me know](https://github.com/ungoldman/hi8/issues/new)!
+If you know of a better (dependency-free) way to process the images (or package `imagemagick` and `graphicsmagick` with the application), please [let me know](https://github.com/ungoldman/hi8/issues/3)!
 
 ## Usage
 
-```
-hi8
-```
+Once **hi8** and [GraphicsMagick](http://www.graphicsmagick.org) have been installed, all you need to do is run the `hi8` command from a terminal.
+
+![menubar screenshot](assets/screenshots/terminal.png)
+
+**hi8** will start in the background and from there it can be managed from the menubar.
+
+![menubar screenshot](assets/screenshots/menubar.png)
 
 ## Contributing
 
