@@ -1,13 +1,11 @@
 <h1 align="center">
-  <br>
   <img src="assets/Icon-Template@2x.png" alt="hi8" height="34" width="34">
   <br>
   <a href="https://ungoldman.github.io/hi8/">hi8</a>
   <br>
-  <br>
 </h1>
 
-<h4 align="center">See Earth from Himawari-8 on your desktop every 10 minutes.</h4>
+<h5 align="center">See Earth from Himawari-8 on your desktop every 10 minutes.</h5>
 
 <p align="center">
   <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
