@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="assets/Icon-Template@2x.png" alt="hi8" height="34" width="34">
   <br>
-  <a href="https://ungoldman.github.io/hi8/">hi8</a>
+  hi8
   <br>
 </h1>
 
