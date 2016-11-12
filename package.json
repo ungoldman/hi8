@@ -18,7 +18,7 @@
     "gh-pages": "^0.11.0",
     "live-server": "^1.1.0",
     "npm-run-all": "^3.1.0",
-    "sitedown": "^3.0.1",
+    "sitedown": "^3.1.0",
     "standard": "^8.3.0"
   },
   "homepage": "https://github.com/ungoldman/hi8",
