@@ -95,8 +95,6 @@ Here are some useful links if you're interested in learning more about the Himaw
 
 ### Related Projects
 
-#### Sites
-
 - [Glittering Blue](http://glittering.blue): A hi-res video of one day's rotation of Earth viewed from Himawari-8.
 - [celoyd/hi8](https://github.com/celoyd/hi8): Tools for making animations from Himawari-8 P-Tree data.
 - [himawari-8-chrome](https://github.com/domoritz/): Himawari 8 New Tab Page (Chrome Extension).
